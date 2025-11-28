@@ -93,17 +93,17 @@ Thank You For Using this Service
 ```
 
 ## Attachments for Sample
-![Sample1](Assets\m-1.png)
-![Sample2](Assets\m-2.png)
-![Sample3](Assets\sample-run.png)
-![Sample4](Assets\Exit.png)
-![Sample5](Assets\1.png)
-![Sample6](Assets\2..png)
+![Sample1](Assets/m-1.png)
+![Sample2](Assets/m-2.png)
+![Sample3](Assets/sample-run.png)
+![Sample4](Assets/Exit.png)
+![Sample5](Assets/1.png)
+![Sample6](Assets/2..png)
 
 
 ## Accessing the Sample Files
-![Access Sample CSV](Assets\Sample\sample_students.csv)
-![Access Sample run py file](Assets\Sample\sample_run.py)
+Access Sample CSV
+![Access Sample CSV](Assets/Sample/sample_students.csv)
+Access Sample Run python File
+![Access Sample run py file](Assets/Sample/sample_run.py)
 
-## License
-This project is licensed under the MIT License.
