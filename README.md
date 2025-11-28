@@ -1,4 +1,4 @@
-📊# Gradebook Analyzer
+# 📊Gradebook Analyzer
 
 ## Description
 Gradebook Analyzer is a Python-based command-line interface (CLI) tool designed to automate the process of analyzing student marks. It reads student data either through manual input or from a CSV file, performs statistical analysis (average, median, maximum, and minimum scores), assigns letter grades based on marks, provides grade distribution, filters passed and failed students, and displays a formatted results table.
@@ -25,25 +25,25 @@ This project follows the **Cross-Industry Standard Process for Data Mining (CRIS
 ---
 
 ## Features
-- ⌨️**Manual Entry**: Input student names and marks directly via the CLI for multiple students.
-- 📂**CSV Import**: Load student data from a CSV file (columns: Name, Marks).
-- 🧮**Statistical Analysis**: Calculate average, median, maximum, and minimum scores.
-- 🏷️**Smart Grade Assignment**: Assign letter grades (A, B, C, D, F) based on marks:
+- **⌨️Manual Entry**: Input student names and marks directly via the CLI for multiple students.
+- **📂CSV Import**: Load student data from a CSV file (columns: Name, Marks).
+- **🧮Statistical Analysis**: Calculate average, median, maximum, and minimum scores.
+- **🏷️Smart Grade Assignment**: Assign letter grades (A, B, C, D, F) based on marks:
   - A: 90-100
   - B: 80-89
   - C: 70-79
   - D: 60-69
   - F: Below 60
-- 📊**Distribution Insights:** Visualizes the count of students per grade tier.
-- 🚦**Pass/Fail Filter**: List students who passed (marks >= 40) and failed (marks < 40).
-- 📑**Formatted Results Table**: Display a formatted table of names, marks, and grades.
-- 🛡️**Robust Error Handling**: Validates inputs and handles file not found or invalid data gracefully.
+- **📊Distribution Insights:** Visualizes the count of students per grade tier.
+- **🚦Pass/Fail Filter**: List students who passed (marks >= 40) and failed (marks < 40).
+- **📑Formatted Results Table**: Display a formatted table of names, marks, and grades.
+- **🛡️Robust Error Handling**: Validates inputs and handles file not found or invalid data gracefully.
 
 ## Requirements
 - Python 3.x
 - Built-in `csv` module (no external `pip install` dependencies required)
 
-🚀## Usage
+## 🚀 Usage
 1. Run the script: `python gradebook.py`
 2. Choose an option:
    - 1: Manual entry (enter number of students, then names and marks).
@@ -62,7 +62,7 @@ Bob,92
 Charlie,78
 ```
 
-💻## Example Output
+## 💻 Example Output
 ```
 Welcome to the Gradebook Analyzer
 in this mini project you will be able to
@@ -113,15 +113,15 @@ Do you want to perform another analysis? (y/n): n
 Thank You For Using this Service
 ```
 
-📸## Attachments for Sample
+## 📸 Attachments for Sample
 ![Sample1](Assets/m-1.png)
 ![Sample2](Assets/m-2.png)
 ![Sample3](Assets/sample-run.png)
 ![Sample4](Assets/Exit.png)
 ![Sample5](Assets/1.png)
-![Sample6](Assets/2.png)
+![Sample6](Assets/2..png)
 
-📥## Accessing the Sample Files
+## 📥Accessing the Sample Files
 [Access Sample CSV](Assets/Sample/sample_students.csv)
 
 <br>
